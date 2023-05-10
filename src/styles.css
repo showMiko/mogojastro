@@ -1,0 +1,11 @@
+html {
+    scroll-behavior: smooth;
+  }
+.myApp{
+    background-image: url("../src/images/mogojastro2.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    min-height: 100vh;
+}
