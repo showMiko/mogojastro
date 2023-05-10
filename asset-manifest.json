@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/mogojastro/static/css/main.1f6f2810.css",
+    "main.js": "/mogojastro/static/js/main.45d49420.js",
+    "static/media/1.mp4": "/mogojastro/static/media/1.c46ce6840f499d4a6696.mp4",
+    "static/media/2.mp4": "/mogojastro/static/media/2.098312d8d5cff5b92543.mp4",
+    "static/media/mogojastro2.png": "/mogojastro/static/media/mogojastro2.1f380e8f8309dae7ee5f.png",
+    "static/media/0.jpeg": "/mogojastro/static/media/0.dcb7377f4207425595e5.jpeg",
+    "static/media/1.jpeg": "/mogojastro/static/media/1.143a270c675988d99195.jpeg",
+    "static/media/Clue3.jpeg": "/mogojastro/static/media/Clue3.bc882b843051f56272d0.jpeg",
+    "static/media/Clue4.jpeg": "/mogojastro/static/media/Clue4.0e4c485092859522c210.jpeg",
+    "static/media/5.jpeg": "/mogojastro/static/media/5.1308279fc0f887b4a561.jpeg",
+    "static/media/4.jpeg": "/mogojastro/static/media/4.1a0e1062874a4295410a.jpeg",
+    "static/media/6.jpeg": "/mogojastro/static/media/6.7af806a284dd9b20abf8.jpeg",
+    "static/media/7.jpeg": "/mogojastro/static/media/7.8bd4f679a520cdf03eb9.jpeg",
+    "static/media/2.jpeg": "/mogojastro/static/media/2.7b2369f054c2309d88f0.jpeg",
+    "static/media/Clue1.jpeg": "/mogojastro/static/media/Clue1.81864f3626a7c12d2081.jpeg",
+    "static/media/8.jpeg": "/mogojastro/static/media/8.fc34a9a3a90fe6ed8400.jpeg",
+    "static/media/3.jpeg": "/mogojastro/static/media/3.173dd25e036302c0c25e.jpeg",
+    "static/media/Clue2.jpeg": "/mogojastro/static/media/Clue2.54b5f6dafe71450a725a.jpeg",
+    "static/media/FinalClue.jpg": "/mogojastro/static/media/FinalClue.8219e7fab7c9a4dde00b.jpg",
+    "static/media/9.jpeg": "/mogojastro/static/media/9.1d6a1ff3b841a7155f6a.jpeg",
+    "static/media/Clue 2.jpeg": "/mogojastro/static/media/Clue 2.d398cbe3db05139ab4ef.jpeg",
+    "static/media/Clue 1.jpeg": "/mogojastro/static/media/Clue 1.ec2fbc969c2f83e48738.jpeg",
+    "static/media/clue4.jpeg": "/mogojastro/static/media/clue4.3ade29f762e6133cef14.jpeg",
+    "static/media/clue2.jpeg": "/mogojastro/static/media/clue2.c944788b72d6380a425e.jpeg",
+    "static/media/BANNER.png": "/mogojastro/static/media/BANNER.ae117a2308d467640be1.png",
+    "static/media/logo.png": "/mogojastro/static/media/logo.30d1bd6ba88bda0be1f5.png",
+    "index.html": "/mogojastro/index.html",
+    "main.1f6f2810.css.map": "/mogojastro/static/css/main.1f6f2810.css.map",
+    "main.45d49420.js.map": "/mogojastro/static/js/main.45d49420.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f6f2810.css",
+    "static/js/main.45d49420.js"
+  ]
+}
