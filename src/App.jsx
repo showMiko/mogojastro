@@ -10,10 +10,10 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/mogojastro" element={<Auth/>} />
-        <Route path="mogojastro/6c5a341d524b531603deb7819a3ba5c5" element={<Event1Page/>} />
-        <Route path="mogojastro/768dd8954723bf17f49a42481b5c50c7" element={<Event2page/>} />
-        <Route path="mogojastro/6958799a4a9145b3a627ceab4291baa3" element={<Event3page/>} />
+        <Route path="/" element={<Auth/>} />
+        <Route path="/6c5a341d524b531603deb7819a3ba5c5" element={<Event1Page/>} />
+        <Route path="/768dd8954723bf17f49a42481b5c50c7" element={<Event2page/>} />
+        <Route path="/6958799a4a9145b3a627ceab4291baa3" element={<Event3page/>} />
       </Routes>
     </BrowserRouter>
   );

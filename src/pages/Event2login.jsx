@@ -49,7 +49,7 @@ const Event2login = () => {
       initialValues={{ name: '' }}
       onSubmit={(values, actions) => {
         setTimeout(() => {
-          navigate("/mogojastro/768dd8954723bf17f49a42481b5c50c7")
+          navigate("/768dd8954723bf17f49a42481b5c50c7")
           actions.setSubmitting(false)
         }, 5000)
       }}
