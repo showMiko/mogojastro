@@ -162,14 +162,16 @@ const Hints3 = () => {
                         hint2 ?
                             <AccordionPanel pb={4}>
                                 <Image src={img2}></Image>
+                                <a href='https://docs.google.com/forms/d/1dhALM3U7n22QEr52CTj68PvPVtbCHT5N_Oo3w89BJp4' target='_blank'>
                                 <Button
                                     colorScheme='yellow'
                                     mt={5}
                                     border={"2px solid white"}
                                     borderRadius={20}
-                                >
+                                    >
                                     Submit The Answer For Hint 2
                                 </Button>
+                                    </a>
                             </AccordionPanel>
                             :
                             ""
